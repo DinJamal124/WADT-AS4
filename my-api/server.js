@@ -1,5 +1,5 @@
 const { ApolloServer, gql } = require('apollo-server');
-
+//added tailwind
 const schema = gql(`
   type Query {
     currentUser: User
