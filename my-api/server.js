@@ -55,7 +55,7 @@ data.users = [
   {
     id: 'abc-3', 
     username: "MOHAMMAD HILMI BIN SABLI",
-  },
+  }
 ];
 
 const currentUserId = 'abc-1';
