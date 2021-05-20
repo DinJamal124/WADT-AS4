@@ -20,7 +20,7 @@
                       Name
                     </th>
                     <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                      Student
+                      Title
                     </th>
                     <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                       Status
@@ -42,10 +42,10 @@
                         </div>
                         <div class="ml-4">
                           <div class="text-sm font-medium text-gray-900">
-                            {{ currentUser.username }}
+                            Jane Cooper
                           </div>
                           <div class="text-sm text-gray-500">
-                            {{ post.content }}
+                            jane.cooper@example.com
                           </div>
                         </div>
                       </div>
