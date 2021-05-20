@@ -46,7 +46,7 @@ data.posts = [
 data.users = [
   {
     id: 'abc-1', 
-    username: "(AK MOHAMMAD RIDHAUDDIN BIN PG JAMALUDIN",
+    username: "AK MOHAMMAD RIDHAUDDIN BIN PG JAMALUDIN",
   },
   {
     id: 'abc-2', 
